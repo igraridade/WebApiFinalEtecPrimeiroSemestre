@@ -1,0 +1,6 @@
+@WebApiFinalEtecPrimeiroSemestre_HostAddress = http://localhost:5250
+
+GET {{WebApiFinalEtecPrimeiroSemestre_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
